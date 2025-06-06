@@ -37,11 +37,11 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
 [![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
 
-Ten dokument jest listą źródeł dla osób chcących rozpocząć swoją przygodę z wkładem do projektów Open Source *(ang. contributing to Open Source)*
+Ten dokument jest listą źródeł dla osób chcących rozpocząć swoją przygodę z wkładem w projekty Open Source *(ang. contributing to Open Source)*.
 
-Jeżeli posiadasz bądź znajdziesz niewymienione w tym dokumencie źródła, proszę stwórz [pull request](https://panizkomputerem.pl/pull-request/)
+Jeżeli posiadasz lub znajdziesz niewymienione w tym dokumencie źródła, proszę otwórz [pull request](https://panizkomputerem.pl/pull-request/).
 
-Jeżeli masz jakiekolwiek pytania bądź komentarz stwórz odpowiedni Issue *(ang. issue)* w tym repozytorium.
+Jeżeli masz jakiekolwiek pytania lub komentarze, utwórz odpowiedni Issue *(ang. issue)* w tym repozytorium.
 
 **Zawartość**
 
@@ -56,26 +56,25 @@ Jeżeli masz jakiekolwiek pytania bądź komentarz stwórz odpowiedni Issue *(an
 
 ## Ogólne wnoszenie własnego wkładu do otwartego oprogramowania
 - [Poradnik Open Source](http://opensource.guide/pl/how-to-contribute/) **[PL]** - Strona w języku polskim poświęcona projektom otwartego oprogramowania.
-- [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
-- [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Poradnik stworzony przez DigitalOcean by poprowadzić cię do sukcesu w kontrybuowaniu na GitHubie.
+- [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG).
+- [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Poradnik stworzony przez DigitalOcean, który poprowadzi Cię do sukcesu w kontrybuowaniu na GitHubie.
 - [Issuehub.io](http://issuehub.pro/) - narzędzie do wyszukiwania kwestii *(ang. Issue)* na podstawie etykiet *(ang. Labels)* i języków programowania.
 - [Code Triage](https://www.codetriage.com/) - kolejne ciekawe narzędzie do znajdowania popularnych repozytoriów i filtrowania kwestii na podstawie języka programowania.
-- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - repozytorium na GitHubie, które gromadzi projekty z dobrymi bugami dla początkujących kontrybutorów i stosuje etykiety do ich opisywania.
-- [Open Source Guides](https://opensource.guide/) - Zbiór poradników dla wszystkich, którzy chcą się nauczyć, jak kontrybuować do projektów otwartego oprogramowania.
-- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Co robić i czego nie robić na GitHubie.
-- [GitHub Guides](https://docs.github.com/en) - Podstawowy poradnik jak używać GitHuba efektywnie.
-- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) -  Naucz się jak działa GitHub poprzez kontrybuowanie do projektów symulowanych.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - Poradnik od Fundacji Linuxa dla projektów otwartego oprogramowania.
-- [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Przewodnik po otwartym oprogramowaniu napisany przez Kent C. Dodds i Sarah Drasner.
-- [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Uporządkowana lista poradników i możliwości dla studentów do nauki nowego języka programowania.
-- [Pull Request Roulette](http://www.pullrequestroulette.com/) - Ta strona zawiera listę pull requestów zgłoszonych do przejrzenia należących do projektów otwartego oprogramowania znajdujących się na GitHubie.
-- ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Poradnik krok po kroku w formie filmu o tym, jak zacząć kontrybuować do projektu otwartego oprogramowania na GitHubie.
-- [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - Przewodnik o świecie kontrybuowania do otwartego oprogramowania zawiera wszystko, od wybrania odpowiedniego projektu, przez pracę na zgłoszoną kwestią (ang. issue), aż do stworzenia własnego PR (Pull Request) i przyłączenia go do głównej gałęzi.
-- ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - W tym poradniku autorzy skupiają się na zasadniczych zasadach tworzenia pull requestów do nie swojego projektu na GitHubie.
-- ["How to get started with Open Source by" Sayan Chowdhury](https://www.hackerearth.com:443/getstarted-opensource/) - Ten artykuł obejmuje poradniki kontrybuowania do projektów otwartego oprogramowania dla początkujących na podstawie wybranego języka programowania.
-- ["Browse good first issues to start contributing to open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub pomaga ci znaleźć dobrą pierwszą kwestię, aby zacząć kontrybuowanie do projektu Open Source.
-- ["How to Contribute to Open Source Project" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - Ten artykuł skierowany jest głównie do zespołów biznesowych (ale może okazać się użyteczny dla indywidualnych autorów) gdzie mówi i mówi o tym dlaczego, jak i po co kontrybuować do projektów Open Source
-- ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) -Wskazówki jak działa społeczność GitHuba i na jakich zasadach opiera się kontrybuowanie do projektów Open Source. Szczególnie zaprojektowane do celów edukacyjnych i praktycznych.
+- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - repozytorium na GitHubie, które gromadzi projekty z zawierające przystępne błędy dla początkujących kontrybutorów i oznacza je odpowiednimi etykietami.
+- [Open Source Guides](https://opensource.guide/) - Zbiór materiałów dla dla osób, społeczności i firm, które chcą się nauczyć, jak prowadzić i kontrybuować do projektów otwartego oprogramowania.
+- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Co robić, a czego unikać na GitHubie.
+- [GitHub Guides](https://docs.github.com/en) - Podstawowe poradniki dotyczące skutecznego korzystania z GitHuba.
+- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) -  Naucz się jak działa GitHub poprzez kontrybuowanie kodu do projektu symulacyjnego.
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - Poradniki Fundacji Linuxa dotyczące projektów otwartego oprogramowania dla przedsiębiorstw.
+- [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Przewodnik po otwartym oprogramowaniu napisany przez Kenta C. Doddsa i Sarah Drasner.
+- [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Starannie wyselekcjonowana lista materiałów i możliwości dla studentów do nauki nowego języka programowania.
+- ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Wideo-przewodnik krok po kroku o tym, jak zacząć wnosić wkład do projektów otwartego oprogramowania na GitHubie.
+- [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - Przewodnik „na żywo” po świecie kontrybuowania do otwartego oprogramowania obejmujący cały proces od wybrania odpowiedniego projektu, przez pracę nad zgłoszoną kwestią (ang. issue), aż po zatwierdzenie PR (ang. Pull Request) i scalenie z główną gałęzią.
+- ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - Poradnik autorstwa Sarah Drasner skupiający się na szczegółach związanych z tworzeniem pull requesta do  cudzych projektów na GitHubie.
+- ["How to get started with Open Source by" Sayan Chowdhury](https://www.hackerearth.com:443/getstarted-opensource/) - Artykuł autorstwa Sayana Chowdhury przedstawiający materiały dla początkujących, którzy chcą kontrybuować do otwartego oprogramowania, dopasowane do ich ulubionego języka programowania.
+- ["Browse good first issues to start contributing to open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub pomaga teraz znaleźć dobre pierwsze zadania (ang. good first issues), które ułatwiają rozpoczęcie wkładu do projektów otwartego oprogramowania.
+- ["How to Contribute to Open Source Project" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - Obszerny artykuł autorstwa Maryny Z skierowany jest głównie do firm (choć przydatny także dla indywidualnych kontrybutorów), omawiający, dlaczego, jak i do jakich projektów open source warto wnosić wkład.
+- ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) - Przewodnik autorstwa Andreia, który pozwala zacząć przygodę ze światem otwartego oprogramowania, zaczynając od „placu zabaw” open source. Szczególnie zaprojektowany w celach edukacyjnych i praktycznych.
 
 
 
