@@ -31,7 +31,7 @@
 </details>
 <!-- Do not translate this -->
 
-# Witamy początkujących kontrybutorów (współautorów)!
+# Witamy początkujących kontrybutorów!
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
@@ -39,27 +39,33 @@
 
 Ten dokument jest listą źródeł dla osób chcących rozpocząć swoją przygodę z wkładem w projekty Open Source *(ang. contributing to Open Source)*.
 
-Jeżeli posiadasz lub znajdziesz niewymienione w tym dokumencie źródła, proszę otwórz [pull request](https://panizkomputerem.pl/pull-request/).
+Jeżeli znajdziesz niewymienione w tym dokumencie źródła, proszę otwórz pull request.
 
 Jeżeli masz jakiekolwiek pytania lub komentarze, utwórz odpowiedni Issue *(ang. issue)* w tym repozytorium.
 
-**Zawartość**
+**Spis treści**
 
-- [Ogólne wnoszenie własnego wkładu do otwartego oprogramowania](#Ogólne-wnoszenie-własnego-wkładu-do-otwartego-oprogramowania)
-- [Bezpośrednie kategorie wyszukiwania kwestii na GitHubie](#Bezpośrednie-kategorie-wyszukiwania-kwestii-na-GitHubie)
-- [Środowisko kontrybucji Mozilli](#Środowisko-kontrybucji-Mozilli)
-- [Użyteczne artykuły dla początkujących w kontrybuowaniu do otwartego oprogramowania](#Użyteczne-artykuły-dla-początkujących-w-kontrybuowaniu-do-otwartego-oprogramowania)
+- [Wnoszenie własnego wkładu do otwartego oprogramowania - podstawy](#Ogólne-wnoszenie-własnego-wkładu-do-otwartego-oprogramowania)
+- [Wyszukiwanie bezpośrednie na GitHubie](#Wyszukiwania-bezpośrednie-na-GitHubie)
+- [Ekosystem kontrybutorów Mozilli](#Ekosystem-kontrybutorów-Mozilli)
+- [Przydatne artykuły dla nowych kontrybutorów otwartego oprogramowania](#Przydatne-artykuły-dla-nowych-kontrybutorów-otwartego-oprogramowania)
 - [Używanie kontroli wersji](#Używanie-kontroli-wersji)
 - [Książki o otwartym oprogramowaniu](#Książki-o-otwartym-oprogramowaniu)
-- [Inicjatywy kontrybucji w otwartym oprogramowaniu](#Inicjatywy-kontrybucji-w-otwartym-oprogramowaniu)
+- [Inicjatywy wspierające kontrybucje do otwartego oprogramowania](#Inicjatywy-wspierające-kontrybucje-do-otwartego-oprogramowania)
+- [Programy open source, w których można uczestniczyć](#Programy-open-source-w-których-można-uczestniczyć)
 - [Licencja](#Licencja)
 
-## Ogólne wnoszenie własnego wkładu do otwartego oprogramowania
+## Wnoszenie własnego wkładu do otwartego oprogramowania - podstawy
+
+> Artykuły i materiały omawiające świat oraz kulturę otwartego oprogramowania.
+
 - [Poradnik Open Source](http://opensource.guide/pl/how-to-contribute/) **[PL]** - Strona w języku polskim poświęcona projektom otwartego oprogramowania.
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG).
-- [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Poradnik stworzony przez DigitalOcean, który poprowadzi Cię do sukcesu w kontrybuowaniu na GitHubie.
+- [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Poradniki autorstwa DigitalOcean, które poprowadzą Cię do sukcesu w kontrybuowaniu na GitHubie.
+- [Complete Guide on Open Source Contributions](https://www.youtube.com/playlist?list=PLR0CKdeR_FyscaxEksDVXc4UQvlOFLYS6) - lista tutoriali na YouTube autorstwa „Dev Sense”.
 - [Issuehub.io](http://issuehub.pro/) - narzędzie do wyszukiwania kwestii *(ang. Issue)* na podstawie etykiet *(ang. Labels)* i języków programowania.
 - [Code Triage](https://www.codetriage.com/) - kolejne ciekawe narzędzie do znajdowania popularnych repozytoriów i filtrowania kwestii na podstawie języka programowania.
+- [Forge Your Future with Open Source](https://pragprog.com/titles/vbopens/forge-your-future-with-open-source/) ($) - książka poświęcona wyjaśnieniu czym jest open source, jak znaleźć projekt oraz jak zacząć wnosić wkład. Uwzględnia wszystkie role w tworzeniu oprogramowania, nie tylko programistów.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - repozytorium na GitHubie, które gromadzi projekty z zawierające przystępne błędy dla początkujących kontrybutorów i oznacza je odpowiednimi etykietami.
 - [Open Source Guides](https://opensource.guide/) - Zbiór materiałów dla dla osób, społeczności i firm, które chcą się nauczyć, jak prowadzić i kontrybuować do projektów otwartego oprogramowania.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Co robić, a czego unikać na GitHubie.
@@ -88,11 +94,10 @@ Jeżeli masz jakiekolwiek pytania lub komentarze, utwórz odpowiedni Issue *(ang
 - ["Contribute to the Open-Source Community"](https://arijitgoswami.hashnode.dev/contribute-to-the-open-source-community) - „Jak kontrybuować do społeczności open source” – Zalety otwaretgo oprogramowania, jak zrozumieć działanie projektu open source oraz jak dokonać pierwszego wkładu.
 - ["Complete Guide to Open Source - How to Contribute"](https://www.youtube.com/watch?v=yzeVMecydCE) (41:52) - „Kompletny przewodnik po open source – jak kontrybuować” - Dowiedz się, dlaczego i jak wnosić wkład do oprogramowania open source z Eddiem Jaoude.
 
+## Wyszukiwanie bezpośrednie na GitHubie
 
+> Linki wyszukiwania, które prowadzą bezpośrednio do odpowiednich kwestii (ang. issues) do kontrybuowania na GitHubie.
 
-
-## Bezpośrednie kategorie wyszukiwania kwestii na GitHubie
-Linki wyszukiwania które wskazują na kwestie skierowane dla początkujących. Jest to dobre miejsce aby zacząć swoją przygodę z kontrybuowaniem.
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
@@ -101,14 +106,22 @@ Linki wyszukiwania które wskazują na kwestie skierowane dla początkujących. 
 - [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter)
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
-## Środowisko kontrybucji Mozilli
-- [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - bugi, które programiści uznali za dobre wprowadzenie do projektu
-- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugi które mają przypisanego mentora, który będzie na IRC aby pomóc ci, kiedy utkniesz podczas naprawiania tego błędu.
-- [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - Strona dedykowana do znajdowania błędów na Bugzilli.
-- [Firefox DevTools](http://firefox-dev.tools/) - Strona dedykowania do znajdowania błędów dla profesjonalnych narzędzi przeznaczonych na przeglądarkę Firefox.
-- [Start Mozilla](https://twitter.com/StartMozilla) - Konto na Twitterze, które tweetuje na temat kwestii odpowiednich dla początkujących kontrybutorów w środowisku Mozilli.
+## Ekosystem kontrybutorów Mozilli
 
-## Użyteczne artykuły dla początkujących w kontrybuowaniu do otwartego oprogramowania
+> Mozilla zobowiązuje się do dbania o zdrowy internet, oferując przy tym możliwości kontrybuowania do swoich projektów open source.
+
+- [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - Bugi, które programiści uznali za dobre wprowadzenie do projektu.
+- [Codetribute](https://codetribute.mozilla.org/) - Znajdź swoje pierwsze kontrybucje kodu w projektach Mozilli.
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute) - pomóż zespołowi MDN Web Docs w dokumentowaniu platformy internetowej, poprawiając błędy w treści oraz usterki platformy.
+- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Błędy, do których przypisany jest mentor, dostępny na IRC, aby pomóc Ci, gdy utkniesz podczas pracy nad poprawką.
+- [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - Strona poświęcona wyszukiwaniu błędów w Bugzilli.
+- [Firefox DevTools](http://firefox-dev.tools/) - Strona poświęcona błędom zgłaszanym w narzędziach deweloperskich przeglądarki Firefox.
+- [Start Mozilla](https://twitter.com/StartMozilla) - konto na Twitterze, które publikuje informacje o zgłoszeniach odpowiednich dla nowych kontrybutorów w ekosystemie Mozilli.
+
+## Przydatne artykuły dla nowych kontrybutorów otwartego oprogramowania
+
+> Przydatne artykuły i blogi skierowane do nowych kontrybutorów, wyjaśniające, jak zacząć.
+
 - [Poradnik o licencjonowaniu projektów Open Source](https://github.com/YetiForceCompany/guides/blob/master/pl/licenses/Poradnik_o_licencjonowaniu_projektow_open_source_YetiForce_v.1.0.pdf) **[PL]** by [Błażej Pabiszczak](https://www.linkedin.com/in/blazej-pabiszczak-yetiforce/)
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
 - [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
@@ -159,12 +172,14 @@ Linki wyszukiwania które wskazują na kwestie skierowane dla początkujących. 
 - [The Architecture of Open Source Applications](http://www.aosabook.org/en/git.html) - Pokazuje jak działają różne nisko poziomowe aspekty Gita, które pozwalają na rozproszony przepływ informacji. Przedstawione zostały również różnice pomiędzy Gittem i innymi systemami kontroli wersji (VCSs).
 - [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) -  Eseje od pionierów projektów Open Source takich jak Linus Torvalds (Linux), Larry Wall (Perl) i Richard Stallman (GNU).
 
-## Inicjatywy kontrybucji w otwartym oprogramowaniu
+## Inicjatywy wspierające kontrybucje do otwartego oprogramowania
 - [Up For Grabs](https://up-for-grabs.net/) - Zawiera projekty z zagadnieniami dla początkujących.
 - [First Timers Only](https://www.firsttimersonly.com/) - Lista błędów oznaczonych dla tych co dopiero zaczynają *(ang. first timers only)*
 - [First Contributions](https://firstcontributions.github.io/) - Stwórz swoją pierwszą kontrybucje do projektu Open Source w 5 minut. Narzedzie i poradnik stworzony, aby pomóc początkującym zacząć przygodę z kontrybuowaniem. [Tutaj ANG](https://github.com/firstcontributions/first-contributions) [Tutaj PL](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.pl.md) jest to kod źródłowy GitHuba, który pozwala wykonać swoją pierwszą kontrybucję do repozytorium.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Program zachęcający do kontrybuowania w projektach Open Source. Zarób prezenty takie jak koszulki czy naklejki za co najmniej 4 Pull Requesty w Październiku.
-- [24 Pull Requests](https://24pullrequests.com) - jest to projekt stworzony do promowania współpracy Open Source w Grudniu. 
+- [24 Pull Requests](https://24pullrequests.com) - jest to projekt stworzony do promowania współpracy Open Source w Grudniu.
+
+## Programy open source w których można uczestniczyć
 
 ## Licencja
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />Ta praca jest licencjonowana za pomocą <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
