@@ -52,7 +52,7 @@ Jeżeli masz jakiekolwiek pytania lub komentarze, otwórz odpowiedni Issue *(ang
 - [Używanie kontroli wersji](#używanie-kontroli-wersji)
 - [Książki o otwartym oprogramowaniu](#książki-o-otwartym-oprogramowaniu)
 - [Inicjatywy wspierające kontrybucje do otwartego oprogramowania](#inicjatywy-wspierające-kontrybucje-do-otwartego-oprogramowania)
-- [Programy open source, w których można uczestniczyć](programy-open-source-w-których-można-uczestniczyć)
+- [Programy open source, w których można uczestniczyć](#programy-open-source-w-których-można-uczestniczyć)
 - [Licencja](#licencja)
 
 ## Wnoszenie własnego wkładu do otwartego oprogramowania
@@ -66,7 +66,7 @@ Jeżeli masz jakiekolwiek pytania lub komentarze, otwórz odpowiedni Issue *(ang
 - [Issuehub.io](http://issuehub.pro/) - narzędzie do wyszukiwania kwestii *(ang. Issue)* na podstawie etykiet *(ang. Labels)* i języków programowania.
 - [Code Triage](https://www.codetriage.com/) - kolejne ciekawe narzędzie do znajdowania popularnych repozytoriów i filtrowania kwestii na podstawie języka programowania.
 - [Forge Your Future with Open Source](https://pragprog.com/titles/vbopens/forge-your-future-with-open-source/) ($) - książka poświęcona wyjaśnieniu czym jest open source, jak znaleźć projekt oraz jak zacząć wnosić wkład. Uwzględnia wszystkie role w tworzeniu oprogramowania, nie tylko programistów.
-- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - repozytorium na GitHubie, które gromadzi projekty z zawierające przystępne błędy dla początkujących kontrybutorów i oznacza je odpowiednimi etykietami.
+- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - repozytorium na GitHubie, które gromadzi projekty zawierające przystępne błędy dla początkujących kontrybutorów i oznacza je odpowiednimi etykietami.
 - [Open Source Guides](https://opensource.guide/) - Zbiór materiałów dla dla osób, społeczności i firm, które chcą się nauczyć, jak prowadzić i kontrybuować do projektów otwartego oprogramowania.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Co robić, a czego unikać na GitHubie.
 - [GitHub Guides](https://docs.github.com/en) - Podstawowe poradniki dotyczące skutecznego korzystania z GitHuba.
@@ -92,7 +92,7 @@ Jeżeli masz jakiekolwiek pytania lub komentarze, otwórz odpowiedni Issue *(ang
 - ["Open Source Fiesta - Open Source Fiesta"](https://zubi.gitbook.io/open-source-fiesta/) - instrukcja krok po kroku, jak kontrybuować do repozytoriów na GitHubie, zawierająca ściągawkę z podstawowymi komendami git.
 - ["6 Best Practices to Manage Pull Request Creation and Feedback"](https://doordash.engineering/2022/08/23/6-best-practices-to-manage-pull-request-creation-and-feedback/) - „6 najlepszych praktyk zarządzania tworzeniem pull requestów i informacją zwrotną” autorstwa Jenny Kiyasu, inżynier oprogramowania w DoorDash Engineering.
 - ["Contribute to the Open-Source Community"](https://arijitgoswami.hashnode.dev/contribute-to-the-open-source-community) - „Jak kontrybuować do społeczności open source” – Zalety otwaretgo oprogramowania, jak zrozumieć działanie projektu open source oraz jak dokonać pierwszego wkładu.
-- ["Complete Guide to Open Source - How to Contribute"](https://www.youtube.com/watch?v=yzeVMecydCE) (41:52) - „Kompletny przewodnik po open source – jak kontrybuować” - Dowiedz się, dlaczego i jak wnosić wkład do oprogramowania open source z Eddiem Jaoude.
+- ["Complete Guide to Open Source - How to Contribute"](https://www.youtube.com/watch?v=yzeVMecydCE) (41:52) - „Kompletny przewodnik po open source – jak kontrybuować” - Dowiedz się, dlaczego i jak wnosić wkład do oprogramowania open source z Eddie'm Jaoude.
 
 ## Wyszukiwanie bezpośrednie na GitHubie 
 
@@ -131,7 +131,7 @@ Jeżeli masz jakiekolwiek pytania lub komentarze, otwórz odpowiedni Issue *(ang
 - Wpis autorstwa [@kentcdodds](https://github.com/kentcdodds) zachęcający osoby początkujące do stawiania swoich pierwszych kroków w świecie Open Source.
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman) - Przywróć życzliwość w Open Source — artykuł autorstwa [@shanselman](https://github.com/shanselman) [@mcdonnelldean](https://github.com/mcdonnelldean).
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github/opensource.guide) - Jak kontrybuować do Open Source — przewodnik autorstwa @GitHub.
-- [How to Find a Bug in Your Code](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury) - Jak znaleźć błąd w swoim kodzie — autorstwa [@dougbradbury(https://twitter.com/dougbradbury).
+- [How to Find a Bug in Your Code](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury) - Jak znaleźć błąd w swoim kodzie — autorstwa [@dougbradbury (https://twitter.com/dougbradbury).
 - [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github/docs) - Opanowanie Markdown autorstwa @GitHub.
 - [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd) - Pierwsza misja: Strona współtwórców autorstwa [@forCrowd](https://github.com/forCrowd).
 - [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/) - Jak zrobić swój pierwszy wkład do projektu Open Source w zaledwie 5 minut autorstwa [@roshanjossey](https://github.com/Roshanjossey/).
