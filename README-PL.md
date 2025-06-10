@@ -39,28 +39,28 @@
 
 Ten dokument jest listą źródeł dla osób chcących rozpocząć swoją przygodę z wkładem w projekty Open Source *(ang. contributing to Open Source)*.
 
-Jeżeli znajdziesz niewymienione w tym dokumencie źródła, proszę otwórz pull request.
+Jeżeli znajdziesz niewymienione w tym dokumencie źródła, proszę otwórz [pull request](https://panizkomputerem.pl/pull-request/).
 
-Jeżeli masz jakiekolwiek pytania lub komentarze, utwórz odpowiedni Issue *(ang. issue)* w tym repozytorium.
+Jeżeli masz jakiekolwiek pytania lub komentarze, otwórz odpowiedni Issue *(ang. issue)* w tym repozytorium.
 
-**Spis treści**
+**Zawartość**
 
-- [Wnoszenie własnego wkładu do otwartego oprogramowania - podstawy](#Ogólne-wnoszenie-własnego-wkładu-do-otwartego-oprogramowania)
-- [Wyszukiwanie bezpośrednie na GitHubie](#Wyszukiwania-bezpośrednie-na-GitHubie)
-- [Ekosystem kontrybutorów Mozilli](#Ekosystem-kontrybutorów-Mozilli)
-- [Przydatne artykuły dla nowych kontrybutorów otwartego oprogramowania](#Przydatne-artykuły-dla-nowych-kontrybutorów-otwartego-oprogramowania)
-- [Używanie kontroli wersji](#Używanie-kontroli-wersji)
-- [Książki o otwartym oprogramowaniu](#Książki-o-otwartym-oprogramowaniu)
-- [Inicjatywy wspierające kontrybucje do otwartego oprogramowania](#Inicjatywy-wspierające-kontrybucje-do-otwartego-oprogramowania)
-- [Programy open source, w których można uczestniczyć](#Programy-open-source-w-których-można-uczestniczyć)
-- [Licencja](#Licencja)
+- [Wnoszenie własnego wkładu do otwartego oprogramowania](#wnoszenie-własnego-wkładu-do-otwartego-oprogramowania)
+- [Wyszukiwanie bezpośrednie na GitHubie](#wyszukiwanie-bezpośrednie-na-githubie)
+- [Środowisko kontrybutorów Mozilli](#srodowisko-kontrybutorow-mozilli)
+- [Przydatne artykuły dla nowych współtwórców open source](#przydatne-artykuły-dla-nowych-współtwórców-open-source)
+- [Używanie kontroli wersji](#używanie-kontroli-wersji)
+- [Książki o otwartym oprogramowaniu](#książki-o-otwartym-oprogramowaniu)
+- [Inicjatywy wspierające kontrybucje do otwartego oprogramowania](#inicjatywy-wspierające-kontrybucje-do-otwartego-oprogramowania)
+- [Programy open source, w których można uczestniczyć](programy-open-source-w-których-można-uczestniczyć)
+- [Licencja](#licencja)
 
-## Wnoszenie własnego wkładu do otwartego oprogramowania - podstawy
+## Wnoszenie własnego wkładu do otwartego oprogramowania
 
 > Artykuły i materiały omawiające świat oraz kulturę otwartego oprogramowania.
 
 - [Poradnik Open Source](http://opensource.guide/pl/how-to-contribute/) **[PL]** - Strona w języku polskim poświęcona projektom otwartego oprogramowania.
-- [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG).
+- [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG) - Kompletny przewodnik po kontrybucji do Open Source autorstwa [@DoomHammerNG](https://twitter.com/DoomHammerNG).
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Poradniki autorstwa DigitalOcean, które poprowadzą Cię do sukcesu w kontrybuowaniu na GitHubie.
 - [Complete Guide on Open Source Contributions](https://www.youtube.com/playlist?list=PLR0CKdeR_FyscaxEksDVXc4UQvlOFLYS6) - lista tutoriali na YouTube autorstwa „Dev Sense”.
 - [Issuehub.io](http://issuehub.pro/) - narzędzie do wyszukiwania kwestii *(ang. Issue)* na podstawie etykiet *(ang. Labels)* i języków programowania.
@@ -94,7 +94,7 @@ Jeżeli masz jakiekolwiek pytania lub komentarze, utwórz odpowiedni Issue *(ang
 - ["Contribute to the Open-Source Community"](https://arijitgoswami.hashnode.dev/contribute-to-the-open-source-community) - „Jak kontrybuować do społeczności open source” – Zalety otwaretgo oprogramowania, jak zrozumieć działanie projektu open source oraz jak dokonać pierwszego wkładu.
 - ["Complete Guide to Open Source - How to Contribute"](https://www.youtube.com/watch?v=yzeVMecydCE) (41:52) - „Kompletny przewodnik po open source – jak kontrybuować” - Dowiedz się, dlaczego i jak wnosić wkład do oprogramowania open source z Eddiem Jaoude.
 
-## Wyszukiwanie bezpośrednie na GitHubie
+## Wyszukiwanie bezpośrednie na GitHubie 
 
 > Linki wyszukiwania, które prowadzą bezpośrednio do odpowiednich kwestii (ang. issues) do kontrybuowania na GitHubie.
 
@@ -106,7 +106,7 @@ Jeżeli masz jakiekolwiek pytania lub komentarze, utwórz odpowiedni Issue *(ang
 - [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter)
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
-## Ekosystem kontrybutorów Mozilli
+## Środowisko kontrybutorów Mozilli
 
 > Mozilla zobowiązuje się do dbania o zdrowy internet, oferując przy tym możliwości kontrybuowania do swoich projektów open source.
 
@@ -118,7 +118,7 @@ Jeżeli masz jakiekolwiek pytania lub komentarze, utwórz odpowiedni Issue *(ang
 - [Firefox DevTools](http://firefox-dev.tools/) - Strona poświęcona błędom zgłaszanym w narzędziach deweloperskich przeglądarki Firefox.
 - [Start Mozilla](https://twitter.com/StartMozilla) - konto na Twitterze, które publikuje informacje o zgłoszeniach odpowiednich dla nowych kontrybutorów w ekosystemie Mozilli.
 
-## Przydatne artykuły dla nowych kontrybutorów otwartego oprogramowania
+## Przydatne artykuły dla nowych współtwórców open source
 
 > Przydatne artykuły i blogi skierowane do nowych kontrybutorów, wyjaśniające, jak zacząć.
 
@@ -217,8 +217,25 @@ Jeżeli masz jakiekolwiek pytania lub komentarze, utwórz odpowiedni Issue *(ang
 
 - [All Linux Foundation (LF) Mentorships](https://mentorship.lfx.linuxfoundation.org/#projects_all) - Wszystkie programy mentorskie Linux Foundation (LF).
 - [Beginner friendly Open Source programs with their timelines](https://github.com/arpit456jain/Open-Source-Programs)
-
-
+- [Cloud Native Computing Foundation](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) - Fundacja Cloud Native Computing (CNCF).
+- [FossAsia](https://fossasia.org)
+- [Free Software Foundation (FSF) Internship](https://www.fsf.org/volunteer/internships) - Staże w Fundacji Wolnego Oprogramowania (FSF).
+- [Google Summer of Code](https://summerofcode.withgoogle.com/) - Organizowany corocznie płatny program firmy Google, którego celem jest zaangażowanie większej liczby studentów-programistów w rozwój oprogramowania open-source.
+- [Girlscript Summer of Code](https://gssoc.girlscript.tech/) - Trzymiesięczny program open-source organizowany każdego lata przez Fundację Girlscript. Uczestnicy przez cały okres trwania programu, pod okiem doświadczonych mentorów, wkładają stały wysiłek w rozwój licznych projektów. Dzięki temu studenci zyskują możliwość współtworzenia rzeczywistych projektów mając możliwość pracy z domowego zacisza.
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com) - Coroczne święto open source, które każdego października mobilizuje programistów do składania kontrybucji!
+- [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN) - eśli interesujesz się blockchainem, to coś dla ciebie. Możesz współtworzyć Hyperledger. Ten program mentorski daje praktyczne doświadczenie w rozwoju open source Hyperledger. Zostaniesz przydzielony do mentorów, którzy są aktywnymi członkami społeczności developerów Hyperledger.
+- [LF Networking Mentorship](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program) - Program mentorski LF Networking.
+- [Microsoft Reinforcement Learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/) - Program firmy Microsoft promujący rozwój open source w dziedzinie uczenia ze wzmocnieniem (reinforcement learning).
+- [Major League Hacking (MLH) Fellowship](https://fellowship.mlh.io/) - Alternatywa dla stażu stacjonarnego w formie zdalnego programu, w którym uczestnicy rozwijają lub współtworzą projekty open source.
+- [Open Summer of Code](https://osoc.be/students) - Belgijska inicjatywa, w której zespoły studenckie tworzą rozwiązania open source dla partnerów biznesowych i społecznych.
+- [Open Mainframe](https://www.openmainframeproject.org/all-projects/mentorship-program) - Open Mainframe Project prowadzi własny program open source, w ramach którego uczestnicy mogą poszerzać swoją wiedzę na temat technologii mainframe.
+- [Outreachy](https://www.outreachy.org)
+- [Processing Foundation Internship](https://processingfoundation.org/fellowships/) - Program stażowy fundacji Processing.
+- [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - Globalny program stypendialny dla kobiet i osób niebinarnych zajmujących się programowaniem, w ramach którego uczestnicy pracują nad istniejącymi projektami open source, poszerzając swoje kompetencje techniczne.
+- [Redox OS Summer of Code](https://www.redox-os.org/rsoc/) - Program Redox OS Summer of Code jest głównym sposobem wykorzystania darowizn na rzecz projektu Redox OS. Wybierani są studenci, którzy już wcześniej wykazali chęć i umiejętności potrzebne do współtworzenia Redox OS.
+- [Social Summer of Code](https://ssoc.devfolio.co/) - Dwumiesięczny letni program fundacji Social, umożliwiający studentom poznanie kultury open source i zaangażowanie się w społeczność. Uczestnicy współtworzą rzeczywiste projekty pod opieką doświadczonych mentorów.
+- [Season of KDE](https://season.kde.org/) - Program Season of KDE, organizowany przez społeczność KDE, to inicjatywa skierowana do osób z całego świata. KDE to międzynarodowa społeczność tworząca darmowe oprogramowanie open source, a program Season of KDE umożliwia współtworzenie ich projektów.
 
 ## Licencja
+
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />Ta praca jest licencjonowana za pomocą <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
