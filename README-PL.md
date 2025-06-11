@@ -47,7 +47,7 @@ Jeżeli masz jakiekolwiek pytania lub komentarze, otwórz odpowiedni Issue *(ang
 
 - [Wnoszenie własnego wkładu do otwartego oprogramowania](#wnoszenie-własnego-wkładu-do-otwartego-oprogramowania)
 - [Wyszukiwanie bezpośrednie na GitHubie](#wyszukiwanie-bezpośrednie-na-githubie)
-- [Środowisko kontrybutorów Mozilli](#srodowisko-kontrybutorow-mozilli)
+- [Środowisko kontrybutorów Mozilli](#środowisko-kontrybutorów-mozilli)
 - [Przydatne artykuły dla nowych współtwórców open source](#przydatne-artykuły-dla-nowych-współtwórców-open-source)
 - [Używanie kontroli wersji](#używanie-kontroli-wersji)
 - [Książki o otwartym oprogramowaniu](#książki-o-otwartym-oprogramowaniu)
@@ -122,13 +122,12 @@ Jeżeli masz jakiekolwiek pytania lub komentarze, otwórz odpowiedni Issue *(ang
 
 > Przydatne artykuły i blogi skierowane do nowych kontrybutorów, wyjaśniające, jak zacząć.
 
-- [Poradnik o licencjonowaniu projektów Open Source](https://github.com/YetiForceCompany/guides/blob/master/pl/licenses/Poradnik_o_licencjonowaniu_projektow_open_source_YetiForce_v.1.0.pdf) **[PL]** by [Błażej Pabiszczak](https://www.linkedin.com/in/blazej-pabiszczak-yetiforce/)
+- [Poradnik o licencjonowaniu projektów Open Source](https://github.com/YetiForceCompany/guides/blob/master/pl/licenses/Poradnik_o_licencjonowaniu_projektow_open_source_YetiForce_v.1.0.pdf) **[PL]** autorstwa [Błażeja Pabiszczaka](https://www.linkedin.com/in/blazej-pabiszczak-yetiforce/)
 - [Contributing.md](https://contributing.md/starting-an-open-source-project/) - Seria przewodników dotyczących kontrybuowania do otwartego oprogramowania.
 - [Finding ways to contribute to open source on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github) by [@GitHub](https://github.com/github) - Przewodnik autorstwa @GitHub po sposobach znajdowania możliwości kontrybucji do projektów open source na GitHubie.
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github) - Jak wybrać i zacząć kontrybuować do swojego pierwszego projektu Open Source.
 - [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha) - Jak znaleźć pierwszy błąd (ang. bug) w projekcie Open Source i go rozwiązać. 
-- [First Timers Only](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
-- Wpis autorstwa [@kentcdodds](https://github.com/kentcdodds) zachęcający osoby początkujące do stawiania swoich pierwszych kroków w świecie Open Source.
+- [First Timers Only](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds) - Wpis autorstwa [@kentcdodds](https://github.com/kentcdodds) zachęcający osoby początkujące do stawiania swoich pierwszych kroków w świecie Open Source.
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman) - Przywróć życzliwość w Open Source — artykuł autorstwa [@shanselman](https://github.com/shanselman) [@mcdonnelldean](https://github.com/mcdonnelldean).
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github/opensource.guide) - Jak kontrybuować do Open Source — przewodnik autorstwa @GitHub.
 - [How to Find a Bug in Your Code](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury) - Jak znaleźć błąd w swoim kodzie — autorstwa [@dougbradbury (https://twitter.com/dougbradbury).
@@ -157,7 +156,7 @@ Jeżeli masz jakiekolwiek pytania lub komentarze, otwórz odpowiedni Issue *(ang
 
 - [Wprowadzenie do kontroli wersji](https://git-scm.com/book/pl/v2/Pierwsze-kroki-Wprowadzenie-do-kontroli-wersji) **[PL]**
 - [Poradnik dla chcących poznać system kontroli wersji](https://microgeek.eu/viewtopic.php?t=852) **[PL]**
-- [Video tutorial for Git and Github by Harvard University](https://www.youtube.com/watch?v=NcoBAfJ6l2Q) - Tutorial by Harvard University, part of their CS50 Web Development course on understanding Git and GitHub and working with Git commands. - Samouczek wideo o Git i GitHub od Uniwersytetu Harvarda – tutorial Uniwersytetu Harvarda, będący częścią kursu CS50 Web Development, wyjaśniający działanie Git i GitHub oraz pracę z poleceniami Git.
+- [Video tutorial for Git and Github by Harvard University](https://www.youtube.com/watch?v=NcoBAfJ6l2Q) - Samouczek wideo o Git i GitHub od Uniwersytetu Harvarda – tutorial Uniwersytetu Harvarda, będący częścią kursu CS50 Web Development, wyjaśniający działanie Git i GitHub oraz pracę z poleceniami Git.
 - [Think Like (a) Git](https://think-like-a-git.net/) - wprowadzenie do Gita dla „zaawansowanych początkujących”, którzy wciąż mają trudności, oferujące prostą strategię bezpiecznego eksperymentowania z Git.
 - [Quickstart - Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Naucz się, jak skonfigurować Git lokalnie oraz ustawić uwierzytelnianie, wraz z kolejnymi krokami na Twojej ścieżce nauki.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Przydatny zestaw podstawowych poleceń do codziennej pracy z Gitem.
@@ -170,7 +169,6 @@ Jeżeli masz jakiekolwiek pytania lub komentarze, otwórz odpowiedni Issue *(ang
 - [Pro Git](https://git-scm.com/book/en/v2) - Książka napisana przez Scotta Chacona i Bena Strauba, opublikowana przez Apress.
 - [Git-it](https://github.com/jlord/git-it-electron) - Aplikacja GitIT z przewodnikiem krok po kroku po Git.
 - [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - Poradnik na temat tego, jak postępować, gdy coś pójdzie nie tak, jak powinno.
-- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - Kompletny poradnik ze slajdami na temat Gita i Githuba po Hiszpańsku. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
 - [Git Kraken](https://www.gitkraken.com/git-client) - Graficzna, wieloplatformowa i interaktywna aplikacja desktopowa do kontroli wersji Git.
 - [Git Tips](https://github.com/git-tips/tips) - Zbiór najpopularniejszych wskazówek i sztuczek dotyczących gita.
 - [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Commituj często, udoskonalaj później, publikuj raz.
@@ -211,7 +209,7 @@ Jeżeli masz jakiekolwiek pytania lub komentarze, otwórz odpowiedni Issue *(ang
 - [Open Source Welcome Committee](https://www.oswc.is/) - Grupa Powitalna Open Source (Open Source Welcome Committee - OSWC) pomaga nowicjuszom dołączyć do niezwykłego świata Open Source. Dołącz do nas i zgłoś swoje projekty open source!
 - [First Contributions](https://github.com/forwards/first-contributions) - To repozytorium to uproszczona, skrócona i dostosowana do RStudio wersja niesamowitego repozytorium First Contributions.
 
-## Programy open source w których można uczestniczyć
+## Programy open source, w których można uczestniczyć
 
 > Program, staż lub stypendium organizowane przez społeczność, które pomagają początkującym współtwórcom znaleźć mentorów i zasoby do współpracy przy projektach oprogramowania open source.
 
@@ -223,7 +221,7 @@ Jeżeli masz jakiekolwiek pytania lub komentarze, otwórz odpowiedni Issue *(ang
 - [Google Summer of Code](https://summerofcode.withgoogle.com/) - Organizowany corocznie płatny program firmy Google, którego celem jest zaangażowanie większej liczby studentów-programistów w rozwój oprogramowania open-source.
 - [Girlscript Summer of Code](https://gssoc.girlscript.tech/) - Trzymiesięczny program open-source organizowany każdego lata przez Fundację Girlscript. Uczestnicy przez cały okres trwania programu, pod okiem doświadczonych mentorów, wkładają stały wysiłek w rozwój licznych projektów. Dzięki temu studenci zyskują możliwość współtworzenia rzeczywistych projektów mając możliwość pracy z domowego zacisza.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com) - Coroczne święto open source, które każdego października mobilizuje programistów do składania kontrybucji!
-- [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN) - eśli interesujesz się blockchainem, to coś dla ciebie. Możesz współtworzyć Hyperledger. Ten program mentorski daje praktyczne doświadczenie w rozwoju open source Hyperledger. Zostaniesz przydzielony do mentorów, którzy są aktywnymi członkami społeczności developerów Hyperledger.
+- [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN) - Jeśli interesujesz się blockchainem, to coś dla ciebie. Możesz współtworzyć Hyperledger. Ten program mentorski daje praktyczne doświadczenie w rozwoju open source Hyperledger. Zostaniesz przydzielony do mentorów, którzy są aktywnymi członkami społeczności developerów Hyperledger.
 - [LF Networking Mentorship](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program) - Program mentorski LF Networking.
 - [Microsoft Reinforcement Learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/) - Program firmy Microsoft promujący rozwój open source w dziedzinie uczenia ze wzmocnieniem (reinforcement learning).
 - [Major League Hacking (MLH) Fellowship](https://fellowship.mlh.io/) - Alternatywa dla stażu stacjonarnego w formie zdalnego programu, w którym uczestnicy rozwijają lub współtworzą projekty open source.
